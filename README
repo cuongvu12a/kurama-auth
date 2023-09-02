@@ -1,0 +1,6 @@
+yarn add express dotenv
+yarn add -D nodemon typescript ts-node @types/node @types/express tsconfig-paths
+yarn tsc --init 
+
+yarn add mysql2 uuid bcrypt
+yarn add -D @types/uuid
